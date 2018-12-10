@@ -14,6 +14,7 @@ mkidr directory_name
 ```
 virtualenv projectname
 ```
+
 Install the following packages to run the app locally  
 
 ```

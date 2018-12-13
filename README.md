@@ -1,6 +1,9 @@
 # FLASK-DANCE    
 This project shows how to use Flask-Dance to implement OAuth in web application.  
 
+https://pusher.com/tutorials/oauth-flask-dance
+
+
 ## Getting Started 
 Clone this repo in a virtualised environment. You can use the following commands to create virtualised environment   
 
